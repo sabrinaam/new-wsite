@@ -13,8 +13,9 @@ description: Livestock Genomics
 # Publications
 
 
-* **Amorim, S. T**; Stafuzza, N. B.; Kluska, S.; Peripolli, E.; Pereira, A. S. C.; Muller, L. F.; De Albuquerque, L. G.; Baldi, F. “Genome-Wide Interaction Study Reveals Epistatic Interactions for Beef Lipid-Related Traits in Nellore Cattle”. Animal Genetics, 2021. [DOI](10.1111/age.13124)
-Tonussi, R.L.; Londoño-Gil, M.; De Oliveira Silva, R. M.; Magalhães, A. F. B.; **Amorim, S. T**; Kluska, S.; Espigolan, R.; Peripolli, E.; Pereira, A. S. C.; Lôbo, R. B.; Aguilar, I.; Lourenço, D. A. L.; Baldi, F. “Accuracy of genomic breeding values and predictive ability for postweaning liveweight and age at first calving in a Nellore cattle population with missing sire information”. Tropical Animal Health and Production, 2021. [DOI](10.1007/s11250-021-02879-w).
+* **Amorim, S. T**; Stafuzza, N. B.; Kluska, S.; Peripolli, E.; Pereira, A. S. C.; Muller, L. F.; De Albuquerque, L. G.; Baldi, F. “Genome-Wide Interaction Study Reveals Epistatic Interactions for Beef Lipid-Related Traits in Nellore Cattle”. Animal Genetics, 2021. [DOI](10.1111/age.13124).
+
+* Tonussi, R.L.; Londoño-Gil, M.; De Oliveira Silva, R. M.; Magalhães, A. F. B.; **Amorim, S. T**; Kluska, S.; Espigolan, R.; Peripolli, E.; Pereira, A. S. C.; Lôbo, R. B.; Aguilar, I.; Lourenço, D. A. L.; Baldi, F. “Accuracy of genomic breeding values and predictive ability for postweaning liveweight and age at first calving in a Nellore cattle population with missing sire information”. Tropical Animal Health and Production, 2021. [DOI](10.1007/s11250-021-02879-w).
 
 * Berton, M. P.; Lemos, M.; Chud, T.; Stafuzza, N. B.; Kluska, S.; **Amorim, S. T.**; Lopes, L. S. F.; Pereira, A. S. C.; Bickhart, D.; Liu, G.; Albuquerque, L. G.; Baldi, Fernando. “Genome-wide association study between copy number variation regions and carcass and meat quality traits in Nellore cattle”. Animal Production Science, 2021. [DOI](https://doi.org/10.1071/AN20275).
 
