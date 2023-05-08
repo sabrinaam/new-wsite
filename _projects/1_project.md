@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data
-description: Beef Cattle Genomics
+title: Animal Genomics
+description: Livestock Genomics
 ---
 
-# Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data
-This project aims to evaluate the impact on commercial beef cattle genetic evaluation by the inclusion of genomic information in the evaluation considering different uncertain paternity situations and different genotyping strategies in a real and simulated population
+# Livestock Genomics
+
+- Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data
+- Genomics Applied to Ruminant Production 
 
 # Publications
 
@@ -23,3 +25,6 @@ Tonussi, R.L.; Londoño-Gil, M.; De Oliveira Silva, R. M.; Magalhães, A. F. B.;
 
 * Bonamy, M.; Kluska, S.; Peripolli, E.; Lemos, M. V. A.; **Amorim, S. T.**; Vaca, R. J.; Lobo, R. B.; Castro, L. M.; Faria, C. U.; Ferrari, F. B.; Baldi, F. “Genetic association between different criteria to define sexual precocious heifers with growth, carcass, reproductive, and feed efficiency indicator traits in Nellore cattle using genomic information”. Journal of Animal Breeding and Genetics, 2018. [DOI](http://dx.doi.org/10.1111/jbg.12366).
 ![image](https://user-images.githubusercontent.com/48261206/236858400-2ef6c78a-3fa9-480e-9abc-ec43b3580990.png)
+
+* **Amorim, S. T.**, Kluska, S.; Berton, M. P.; Lemos, M. V. A.; Peripolli, E.; Stafuzza, N. B.; Martin, J. F.; Alvarez, M. S.; Gavina, B. V.; Toro, M. A.; Banchero, G.; Oliveira, P. S.; Grigoletto, L. ; Eler, J. P.; Baldi, F. ; Ferraz, J. B. S. “Genomic study for maternal related traits in Santa Inês sheep breed”. Livestock Science, 2018. [DOI](http://dx.doi.org/10.1016/j.livsci.2018.09.011)![image](https://user-images.githubusercontent.com/48261206/236861792-e509d613-f215-472f-8462-c22ff23a13c8.png)
+
