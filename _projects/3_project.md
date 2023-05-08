@@ -11,4 +11,4 @@ Sensing technologies are used in precision livestock farming to capture morphome
 
 # Publications
 
-* Kadlec, R.; Indest, S.; Castro, K.; Waqar, S.; Campos, L.M.; **Amorim, S.T**; Bi, Y.; Haningan, M.D.; Morota, G. “Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera”. Translational Animal Science, 2022. [DOI](10.1093/tas/txac1639).
+* Kadlec, R.; Indest, S.; Castro, K.; Waqar, S.; Campos, L.M.; **Amorim, S.T**; Bi, Y.; Haningan, M.D.; Morota, G. “Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera”. Translational Animal Science, 2022. [DOI](https://doi.org/10.1093/tas/txac163).
