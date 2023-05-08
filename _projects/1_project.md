@@ -21,7 +21,7 @@ Tonussi, R.L.; Londoño-Gil, M.; De Oliveira Silva, R. M.; Magalhães, A. F. B.;
 
 * **Amorim, S. T,**; Yu, H.; Momen, M.; Albuquerque, L. G.; Pereira, A. S. C.; Baldi, F.; Morota, G. “An assessment of Genomic Connectedness measures in Nellore cattle”. Journal of Animal Science, 2020. [DOI](https://doi.org/10.1093/jas/skaa289)
 
-* Peripolli, E.; Stafuzza, N. B.; **Amorim, S. T.**; Lemos, M. V. A.; Grigoletto, L.; Kluska, S.; Ferraz, J. B. S.; Eler, J. P.; Mattos, E. C.; Baldi, F. “Genome-wide scan for runs of homozygosity in composite Montana Tropical® beef cattle”. Journal Of Animal Breeding And Genetics, 2019. [DOI] (10.1111/jbg.12428)
+* Peripolli, E.; Stafuzza, N. B.; **Amorim, S. T.**; Lemos, M. V. A.; Grigoletto, L.; Kluska, S.; Ferraz, J. B. S.; Eler, J. P.; Mattos, E. C.; Baldi, F. “Genome-wide scan for runs of homozygosity in composite Montana Tropical® beef cattle”. Journal Of Animal Breeding And Genetics, 2019. [DOI](10.1111/jbg.12428)
 
 * Bonamy, M.; Kluska, S.; Peripolli, E.; Lemos, M. V. A.; **Amorim, S. T.**; Vaca, R. J.; Lobo, R. B.; Castro, L. M.; Faria, C. U.; Ferrari, F. B.; Baldi, F. “Genetic association between different criteria to define sexual precocious heifers with growth, carcass, reproductive, and feed efficiency indicator traits in Nellore cattle using genomic information”. Journal of Animal Breeding and Genetics, 2018. [DOI](http://dx.doi.org/10.1111/jbg.12366).
 
