@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/amorimsab"
-linkedin: "https://www.linkedin.com/in/sabrina-amorim-9857a0bb"
+twitter: https://twitter.com/amorimsab
+linkedin: https://www.linkedin.com/in/sabrina-amorim-9857a0bb
 #stackoverflow: "#"
-github: "https://github.com/sabrinaam"
-researchgate: "https://www.researchgate.net/profile/Sabrina-Amorim-2"
-orcid: "https://orcid.org/0000-0003-4130-2040"
+github: https://github.com/sabrinaam
+researchgate: https://www.researchgate.net/profile/Sabrina-Amorim-2
+orcid: https://orcid.org/0000-0003-4130-2040
 
 
 
