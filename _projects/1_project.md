@@ -6,8 +6,9 @@ description: Livestock Genomics
 
 # Livestock Genomics
 
-- Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data
-- Genomics Applied to Ruminant Production 
+- Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data.
+- Genomics Applied to Ruminant Production.
+- Study of the Genetic Variability of Meat Fatty Acids Profile in Nellore cattle finished in Feedlot.
 
 # Publications
 
