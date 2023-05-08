@@ -5,6 +5,7 @@ title: Publications
 ## 2022 
 
 * Kadlec, R.; Indest, S.; Castro, K.; Waqar, S.; Campos, L.M.; **Amorim, S.T**; Bi, Y.; Haningan, M.D.; Morota, G. “Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera”. Translational Animal Science, 2022. [DOI](10.1093/tas/txac1639).
+
 * **Amorim, S. T**; Tsuyuzaki, K.; Nikaido, I.; Morota, G. “Improved MeSH analysis software tools for farm animals”. Animal Genetics, 2022. [DOI](10.1111/age.13159).
 
 ## 2021
@@ -22,6 +23,10 @@ title: Publications
 
 ## 2019
 * Peripolli, E.; Stafuzza, N. B.; **Amorim, S. T.**; Lemos, M. V. A.; Grigoletto, L.; Kluska, S.; Ferraz, J. B. S.; Eler, J. P.; Mattos, E. C.; Baldi, F. “Genome-wide scan for runs of homozygosity in composite Montana Tropical® beef cattle”. Journal Of Animal Breeding And Genetics, 2019. [DOI](10.1111/jbg.12428).
+
+* Feitosa, F.L.B.; Pereira, A.S.C.; **Amorim, S. T.**; Peripolli, E.; Silva, R.M.O.; Braz, C.U.; Ferrinho, A.M.; Schenkel, F.S.; Brito, L.F.; Espigolan, R.; de Albuquerque, L.G.; Baldi, F. "Comparison between haplotype-based and individual SNP-based Genomic Predictions for beef fatty acid profile in Nelore cattle". Journal Of Animal Breeding And Genetics, 2019. [DOI](10.1111/jbg.12463).
+
+* Stivanin, T.; Maia, F. M. C.; Migliorini, E.; Kluska, S.; **Amorim, S. T.**; Lovatto, F. S.; Martins, E. N. "Evaluation of selection criteria in laying quails (Coturnix coturnix japonica". Livestock Research for Rural Development, 2019. [DOI](10.13140/RG.2.2.21536.94727).
 
 ## 2018
 * Bonamy, M.; Kluska, S.; Peripolli, E.; Lemos, M. V. A.; **Amorim, S. T.**; Vaca, R. J.; Lobo, R. B.; Castro, L. M.; Faria, C. U.; Ferrari, F. B.; Baldi, F. “Genetic association between different criteria to define sexual precocious heifers with growth, carcass, reproductive, and feed efficiency indicator traits in Nellore cattle using genomic information”. Journal of Animal Breeding and Genetics, 2018. [DOI](http://dx.doi.org/10.1111/jbg.12366).
