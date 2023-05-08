@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Sabrina Amorim
-description: Animal Breeding and Genetics | Data Science | Phenomics
+description: Animal Breeding and Genetics | Data Analytics | Phenomics
 
 baseurl: "/" #name of GitHub repository
 url: "https://sabrinaam.github.io/" ##custom url to be used instead of GitHub repository
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "https://twitter.com/amorimsab"
-linkedin: "https://www.linkedin.com/in/sabrina-amorim-9857a0bb/"
+linkedin: "https://www.linkedin.com/in/sabrina-amorim-9857a0bb"
 #stackoverflow: "#"
 github: "https://github.com/sabrinaam"
 researchgate: "https://www.researchgate.net/profile/Sabrina-Amorim-2"
