@@ -11,5 +11,5 @@ The Medical Subject Headings, also known as MeSH, is a controlled life sciences 
 
 # Publications
 
-* **Amorim, S. T**; Tsuyuzaki, K.; Nikaido, I.; Morota, G. “Improved MeSH analysis software tools for farm animals”. Animal Genetics, 2022. [DOI](10.1111/age.13159).
+* **Amorim, S. T**; Tsuyuzaki, K.; Nikaido, I.; Morota, G. “Improved MeSH analysis software tools for farm animals”. Animal Genetics, 2022. [DOI]( https://doi.org/10.1111/age.13159).
 
