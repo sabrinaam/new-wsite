@@ -2,6 +2,15 @@
 layout: post
 title: Publications 
 ---
+
+## 2024
+
+* Negreiros, M.P.; **Amorim, S.T.**; Lˆobo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. **In Press**.
+
+## 2023
+
+* Silva Neto, J.B.; Mota, L.F. M.; **Amorim, S.T.**; Peripolli, E.; Brito, L.F.; Magnabosco, C.U.; Baldi, Fernando. "Genotype-By-Environment Interactions For Feed Efficiency Traits In Nellore Cattle Based On Bi-Trait Reaction Norm Models". Genetics Selection Evolution, 2023. [DOI](https://doi.org/10.1186/s12711-023-00867-2).
+
 ## 2022 
 
 * Kadlec, R.; Indest, S.; Castro, K.; Waqar, S.; Campos, L.M.; **Amorim, S.T**; Bi, Y.; Haningan, M.D.; Morota, G. “Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera”. Translational Animal Science, 2022. [DOI](https://doi.org/10.1093/tas/txac163).
