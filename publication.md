@@ -5,7 +5,7 @@ title: Publications
 
 ## 2024
 
-* Negreiros, M.P.; **Amorim, S.T.**; Lˆobo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. **In Press**.
+* Negreiros, M.P.; **Amorim, S.T.**; Lôbo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. **In Press**.
 
 ## 2023
 
