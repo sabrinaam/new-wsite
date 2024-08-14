@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Animal Genomics
+title: Animal Genetics and Genomics
 description: Livestock Genomics
 ---
 
-# Livestock Genomics
+# Livestock Genetics and Genomics
 
 - Genomic Evaluation in Commercial Beef Cattle Population Using Real and Simulated Data.
 - Genomics Applied to Ruminant Production.
@@ -12,6 +12,14 @@ description: Livestock Genomics
 
 # Publications
 
+
+* Temp, L.B.; Brunes, L.C.; Pereira, L.S., **Amorim, S.T.**; Magnabosco, C.U.; Lobo, R.B.; Brito, O.C.; Viacava, R.; Baldi, F. "Effect of genetic and sex effect on genomic prediction for horn development in Nellore cattle". Livestock Science, 2024. [DOI](10.1016/j.livsci.2024.105478).
+
+* Soares, B.B.; Brunes, L.C.; Baldi, F.S., Carmo, A.S.; Pereira, L.S.; Carvalho, R.A.; Narciso, M.G.; **Amorim, S.T.**; Sainz, R.D.; Magnabosco, C.U. "Genetic parameters for visual scores, growth and carcass traits in Nellore Cattle". Anais da Academia Brasileira de Ciências, 2024. [DOI](https://doi.org/10.1590/0001-3765202420230010). 
+
+* Negreiros, M.P.; **Amorim, S.T.**; Lôbo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. [DOI](10.1111/jbg.12851).
+
+* Silva Neto, J.B.; Mota, L.F. M.; **Amorim, S.T.**; Peripolli, E.; Brito, L.F.; Magnabosco, C.U.; Baldi, Fernando. "Genotype-By-Environment Interactions For Feed Efficiency Traits In Nellore Cattle Based On Bi-Trait Reaction Norm Models". Genetics Selection Evolution, 2023. [DOI](https://doi.org/10.1186/s12711-023-00867-2).
 
 * **Amorim, S. T**; Stafuzza, N. B.; Kluska, S.; Peripolli, E.; Pereira, A. S. C.; Muller, L. F.; De Albuquerque, L. G.; Baldi, F. “Genome-Wide Interaction Study Reveals Epistatic Interactions for Beef Lipid-Related Traits in Nellore Cattle”. Animal Genetics, 2021. [DOI](https://doi.org/10.1111/age.13124).
 
