@@ -5,7 +5,11 @@ title: Publications
 
 ## 2024
 
-* Negreiros, M.P.; **Amorim, S.T.**; Lôbo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. **In Press**.
+* Temp, L.B.; Brunes, L.C.; Pereira, L.S., **Amorim, S.T.**; Magnabosco, C.U.; Lobo, R.B.; Brito, O.C.; Viacava, R.; Baldi, F. "Effect of genetic and sex effect on genomic prediction for horn development in Nellore cattle". Livestock Science, 2024. [DOI](10.1016/j.livsci.2024.105478).
+
+* Soares, B.B.; Brunes, L.C.; Baldi, F.S., Carmo, A.S.; Pereira, L.S.; Carvalho, R.A.; Narciso, M.G.; **Amorim, S.T.**; Sainz, R.D.; Magnabosco, C.U. "Genetic parameters for visual scores, growth and carcass traits in Nellore Cattle". Anais da Academia Brasileira de Ciências, 2024. [DOI](https://doi.org/10.1590/0001-3765202420230010). 
+
+* Negreiros, M.P.; **Amorim, S.T.**; Lôbo, R. B.; Brunes, L.C.; Magnabosco, C.U.; Bergmann, J.A.G.; Espigolan, R.; Pereira, A.S.C.; Baldi, Fernando. "Genetic correlation estimates between calving ease in primiparous cows and economically important traits in Nellore Cattle". Journal of Animal Breeding and Genetics, 2024. [DOI](10.1111/jbg.12851).
 
 ## 2023
 
